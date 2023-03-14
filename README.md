@@ -1,4 +1,4 @@
-# Hey there, I'm Thamy Mitidieri 👋
+# Hey there, I'm Thamy 👋
 Data Analyst & User Researcher ⚡ Experienced in design, user research and a knack for data mining
 
 🧰 Tools & languages
