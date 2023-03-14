@@ -26,7 +26,7 @@ Data Analyst & User Researcher ⚡ Experienced in design, user research and a kn
 
 🎓Certifications
   - [Microsoft Certified Power Platform Fundamentals](https://github.com/tmitidieri/tmitidieri/raw/main/PL900-MS%20Certification_Thamyres-Mitidieri-Barbosa.jpg) - by Microsoft
-  - [SQL (Intermediate)]() - by HackerRank
+
 
 💬 Contact
 t.mitidieri@gmail.com
