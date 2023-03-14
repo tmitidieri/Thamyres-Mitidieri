@@ -11,8 +11,4 @@
 
 - 💚 Tools:
 
-  [![My Skills](https://skillicons.dev/icons?i=py,mysql,postgres,regex)](https://skillicons.dev)
-
-  [![My Skills](https://skillicons.dev/icons?i=html,css,xd,figma,vscode)](https://skillicons.dev)
-
-
+![image]({https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white})
